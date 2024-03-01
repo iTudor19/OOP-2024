@@ -1,6 +1,7 @@
 /*#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <vector>
+#include <string>
 
 bool compareWords(const std::string& word1, const std::string& word2) {
     if (word1.length() != word2.length()) {
@@ -31,7 +32,6 @@ int main() {
         words.push_back(word);
     }
 
-    // Manual sorting
     for (size_t i = 0; i < words.size(); ++i) {
         for (size_t j = i + 1; j < words.size(); ++j) {
             if (compareWords(words[j], words[i])) {
@@ -46,5 +46,4 @@ int main() {
     }
 
     return 0;
-}
-*/
+}*/

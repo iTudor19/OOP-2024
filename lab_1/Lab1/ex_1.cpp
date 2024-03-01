@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <stdlib.h>
 
 int string_to_int(char* str) {
@@ -37,4 +37,4 @@ int main() {
     printf("%d\n", sum);
 
     return 0;
-}
+}*/
