@@ -1,0 +1,3 @@
+﻿  NumberList.cpp
+C:\Users\Tudor\Documents\GitHub\OOP-2024\lab_2\Lab_OOP_2\NumberList.cpp(18): warning C4715: 'NumberList::Add': not all control paths return a value
+  Lab_OOP_2.vcxproj -> C:\Users\Tudor\Documents\GitHub\OOP-2024\lab_2\Lab_OOP_2\x64\Debug\Lab_OOP_2.exe

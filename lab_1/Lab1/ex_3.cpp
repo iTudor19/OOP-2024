@@ -1,4 +1,4 @@
-#include <iostream>
+/*/nclude <iostream>
 using namespace std;
 
 bool isPrime(int n)
