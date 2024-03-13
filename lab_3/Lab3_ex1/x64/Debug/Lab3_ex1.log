@@ -1,0 +1,6 @@
+﻿  Math.cpp
+C:\Users\Tudor\Documents\GitHub\OOP-2024\lab_3\Lab3_ex1\Math.cpp(17,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tudor\Documents\GitHub\OOP-2024\lab_3\Lab3_ex1\Math.cpp(21,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tudor\Documents\GitHub\OOP-2024\lab_3\Lab3_ex1\Math.cpp(33,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tudor\Documents\GitHub\OOP-2024\lab_3\Lab3_ex1\Math.cpp(37,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Lab3_ex1.vcxproj -> C:\Users\Tudor\Documents\GitHub\OOP-2024\lab_3\Lab3_ex1\x64\Debug\Lab3_ex1.exe
