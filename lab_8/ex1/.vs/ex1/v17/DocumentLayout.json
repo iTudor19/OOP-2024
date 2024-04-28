@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tudor\\Documents\\GitHub\\OOP-2024\\lab_8\\ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A949BED4-C1A9-4839-91A1-67FE605B642A}|ex1.vcxproj|C:\\Users\\Tudor\\Documents\\GitHub\\OOP-2024\\lab_8\\ex1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A949BED4-C1A9-4839-91A1-67FE605B642A}|ex1.vcxproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A949BED4-C1A9-4839-91A1-67FE605B642A}|ex1.vcxproj|C:\\Users\\Tudor\\Documents\\GitHub\\OOP-2024\\lab_8\\ex1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A949BED4-C1A9-4839-91A1-67FE605B642A}|ex1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Tudor\\Documents\\GitHub\\OOP-2024\\lab_8\\ex1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Tudor\\Documents\\GitHub\\OOP-2024\\lab_8\\ex1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T18:08:38.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\Tudor\\Documents\\GitHub\\OOP-2024\\lab_8\\ex1\\input.txt",
+              "RelativeDocumentMoniker": "input.txt",
+              "ToolTip": "C:\\Users\\Tudor\\Documents\\GitHub\\OOP-2024\\lab_8\\ex1\\input.txt",
+              "RelativeToolTip": "input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-28T18:10:31.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
